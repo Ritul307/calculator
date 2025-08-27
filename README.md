@@ -40,3 +40,6 @@ AC button → Clears display (calc.display.value = '').
 DE button → Deletes last character (slice(0, -1)).
 Numbers & Operators → Append values to display (+=).
 Equal button (=) → Uses eval() to calculate result.
+
+
+My website https://ritul307.github.io/calculator/
